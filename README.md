@@ -1,5 +1,5 @@
 Cross-platform mapping for Terraria
-
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/TerraFirma)](https://repl.it/github/UzayAnil/TerraFirma)
 COMPILING:
 ----------
 
